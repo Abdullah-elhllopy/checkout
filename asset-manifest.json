@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abdullah-elhllopy/checkout/static/css/main.edc8e3e3.chunk.css",
+    "main.js": "/Abdullah-elhllopy/checkout/static/js/main.c81c0160.chunk.js",
+    "main.js.map": "/Abdullah-elhllopy/checkout/static/js/main.c81c0160.chunk.js.map",
+    "runtime-main.js": "/Abdullah-elhllopy/checkout/static/js/runtime-main.7d1acf02.js",
+    "runtime-main.js.map": "/Abdullah-elhllopy/checkout/static/js/runtime-main.7d1acf02.js.map",
+    "static/js/2.6e63abef.chunk.js": "/Abdullah-elhllopy/checkout/static/js/2.6e63abef.chunk.js",
+    "static/js/2.6e63abef.chunk.js.map": "/Abdullah-elhllopy/checkout/static/js/2.6e63abef.chunk.js.map",
+    "static/js/3.9f75a544.chunk.js": "/Abdullah-elhllopy/checkout/static/js/3.9f75a544.chunk.js",
+    "static/js/3.9f75a544.chunk.js.map": "/Abdullah-elhllopy/checkout/static/js/3.9f75a544.chunk.js.map",
+    "index.html": "/Abdullah-elhllopy/checkout/index.html",
+    "static/css/main.edc8e3e3.chunk.css.map": "/Abdullah-elhllopy/checkout/static/css/main.edc8e3e3.chunk.css.map",
+    "static/js/2.6e63abef.chunk.js.LICENSE.txt": "/Abdullah-elhllopy/checkout/static/js/2.6e63abef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d1acf02.js",
+    "static/js/2.6e63abef.chunk.js",
+    "static/css/main.edc8e3e3.chunk.css",
+    "static/js/main.c81c0160.chunk.js"
+  ]
+}
